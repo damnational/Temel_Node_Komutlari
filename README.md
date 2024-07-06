@@ -1,0 +1,1 @@
+# Temel_Node_Komutlari
